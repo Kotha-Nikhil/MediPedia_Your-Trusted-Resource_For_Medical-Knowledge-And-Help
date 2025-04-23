@@ -1,4 +1,4 @@
-# 🩺 MediPedia: Your Interactive Medical Companion 🤖💬
+# 🩺 Your-Trusted-Resource_For_Medical-Knowledge-And-Help: Medpedia🤖💬
 
 Welcome to MediPedia, your go-to platform for interactive medical assistance and information. MediPedia combines the power of state-of-the-art conversational AI with comprehensive medical knowledge to provide users with personalized healthcare support.
 
