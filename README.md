@@ -6,8 +6,7 @@ Welcome to MediPedia, your go-to platform for interactive medical assistance and
 
 MediPedia is a sophisticated Medical Chatbot built using powerful open-source technologies. It utilizes Sentence Transformers for generating embeddings, Faiss CPU for vector storage, and integrates Llama 2, a large language model, using the Chainlit library to create a conversational interface. The project aims to democratize access to healthcare information and support, making it accessible to everyone.
 
-## Architecture Diagram -
-![Blank diagram (1)](https://github.com/Kotha-Nikhil/MediPedia_Your-Trusted-Resource_For_Medical-Knowledge-And-Help)
+
 
 ## ✨ Features
 
